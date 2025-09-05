@@ -1,0 +1,37 @@
+.body {
+    background-color: hsl(0, 0%, 0%);
+    margin: 10px 30px 10px 30px;
+}
+
+.Netlogo {
+    max-width: 300px;
+}
+
+.NetlogoD {
+    max-width: 350px;
+    max-height: 125px;
+    height: 125px;
+    width: 350px;
+}
+
+.imagesD {
+    height: 450px;
+    width: 300px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    display: flex;
+    justify-content: space-between;
+}
